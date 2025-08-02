@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    
+    <!-- Node 2: twist_motors.py (run in a new terminal) -->
+    <node pkg="differential_drive" type="twist_motors.py" name="twist_to_motors" output="screen" launch-prefix="gnome-terminal -- bash -c 'sleep 2; $0 $@'">
+    </node>
+ 
+</launch>

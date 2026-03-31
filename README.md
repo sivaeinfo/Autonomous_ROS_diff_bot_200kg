@@ -1,8 +1,10 @@
 🤖 AMR_ROS_DIFF_BOT
 
 https://drive.google.com/file/d/107mmFezZz4mKWtgOjHwmKOvJSWchzOxr/view?usp=sharing
+<img width="1082" height="515" alt="image" src="https://github.com/user-attachments/assets/4bdd6e4f-2acf-4beb-8cda-5a0b2d1b63d6" />
 
 https://drive.google.com/file/d/1DHJlutC4Qy_kuBZ27PgUqE3D-1o_8Lau/view?usp=sharing
+<img width="1062" height="466" alt="image" src="https://github.com/user-attachments/assets/f64cd004-59cb-4645-982d-684666e2eefb" />
 
 Autonomous Mobile Robot (AMR) – ROS Noetic Differential Drive Navigation
 
